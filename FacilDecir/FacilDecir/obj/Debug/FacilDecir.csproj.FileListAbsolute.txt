@@ -1,0 +1,7 @@
+c:\users\usjim\documents\visual studio 2015\Projects\FacilDecir\FacilDecir\bin\Debug\FacilDecir.exe.config
+C:\Users\usjim\Documents\Visual Studio 2015\Projects\parcial I programacion II 2019-3\FacilDecir\FacilDecir\bin\Debug\FacilDecir.exe.config
+C:\Users\usjim\Documents\Visual Studio 2015\Projects\parcial I programacion II 2019-3\FacilDecir\FacilDecir\bin\Debug\FacilDecir.exe
+C:\Users\usjim\Documents\Visual Studio 2015\Projects\parcial I programacion II 2019-3\FacilDecir\FacilDecir\bin\Debug\FacilDecir.pdb
+C:\Users\usjim\Documents\Visual Studio 2015\Projects\parcial I programacion II 2019-3\FacilDecir\FacilDecir\obj\Debug\FacilDecir.csprojResolveAssemblyReference.cache
+C:\Users\usjim\Documents\Visual Studio 2015\Projects\parcial I programacion II 2019-3\FacilDecir\FacilDecir\obj\Debug\FacilDecir.exe
+C:\Users\usjim\Documents\Visual Studio 2015\Projects\parcial I programacion II 2019-3\FacilDecir\FacilDecir\obj\Debug\FacilDecir.pdb

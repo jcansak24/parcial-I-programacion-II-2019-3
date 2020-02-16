@@ -1,0 +1,11 @@
+c:\users\usjim\documents\visual studio 2015\Projects\Misiones\Misiones\bin\Debug\Misiones.exe.config
+c:\users\usjim\documents\visual studio 2015\Projects\Misiones\Misiones\bin\Debug\Misiones.exe
+c:\users\usjim\documents\visual studio 2015\Projects\Misiones\Misiones\bin\Debug\Misiones.pdb
+c:\users\usjim\documents\visual studio 2015\Projects\Misiones\Misiones\obj\Debug\Misiones.csprojResolveAssemblyReference.cache
+c:\users\usjim\documents\visual studio 2015\Projects\Misiones\Misiones\obj\Debug\Misiones.exe
+c:\users\usjim\documents\visual studio 2015\Projects\Misiones\Misiones\obj\Debug\Misiones.pdb
+C:\Users\usjim\Documents\Visual Studio 2015\Projects\parcial I programacion II 2019-3\Misiones\Misiones\bin\Debug\Misiones.exe.config
+C:\Users\usjim\Documents\Visual Studio 2015\Projects\parcial I programacion II 2019-3\Misiones\Misiones\bin\Debug\Misiones.exe
+C:\Users\usjim\Documents\Visual Studio 2015\Projects\parcial I programacion II 2019-3\Misiones\Misiones\bin\Debug\Misiones.pdb
+C:\Users\usjim\Documents\Visual Studio 2015\Projects\parcial I programacion II 2019-3\Misiones\Misiones\obj\Debug\Misiones.exe
+C:\Users\usjim\Documents\Visual Studio 2015\Projects\parcial I programacion II 2019-3\Misiones\Misiones\obj\Debug\Misiones.pdb
